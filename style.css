@@ -55,16 +55,6 @@ img{
     width: 313px;
     height: 588px;
 }
-.image_interaction img:hover{
-    display: flex;
-    flex-direction: column;
-    align-content: space-between;
-    transition: 0.3s;
-    transform: scale(1.1);
-    -webkit-filter: grayscale(100%);
-    filter: blur(6px) grayscale(100%);
-    opacity: 0.5;
-}
 a{
     position: absolute;
     color: rgb(12, 241, 241);
