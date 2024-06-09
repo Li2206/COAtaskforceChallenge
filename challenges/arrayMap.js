@@ -1,7 +1,7 @@
 // A function to chech if there is a contigeous subarray that sums up to the target within the array.
 function FindSubarrySum(array, target){
-    // Sorting the array by order
-    let trackerSum = 0
+    // find the subarray
+    let trackerSum = 0 
     for (let i = 0; i < array.length; i++){
         trackerSum += i;
         if(trackerSum === target){

@@ -1,6 +1,5 @@
 const Interaction = document.querySelectorAll('.image_interaction img');
 const link = document.querySelectorAll('a');
-link.hidden = true
 Interaction.forEach(element => {
     element.addEventListener('mouseover', function() {
         element.style.display = 'flex';
