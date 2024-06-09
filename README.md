@@ -8,7 +8,7 @@
  
  **3. Requiments**
  Make sure to have a web browser
- make sure to have the latest version--NODE.JS-- that feature will help run tests via the console method in local machine 
+ make sure to have the latest version **NODE.JS** that feature will help run tests via the console method in local machine 
  
  **4. How to install node**
  go to your browser, write `node js` that will open official web, click download
